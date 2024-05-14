@@ -1,5 +1,5 @@
 {
-  "name": "github-commit-info",
+  "name": "@fifteen/typescript-template",
   "version": "1.0.0",
   "description": "Get github commit information",
   "main": "index.js",
