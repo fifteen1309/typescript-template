@@ -2,7 +2,15 @@
   "name": "@fifteen/typescript-template",
   "version": "1.0.0",
   "description": "Get github commit information",
-  "main": "index.js",
+  "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fifteen1309/typescript-template.git"
+  },
+  "keywords": [
+    "fifteen",
+    "fifteen1309"
+  ],
   "scripts": {
     "build": "npm run format:write && npm run package",
     "package": "ncc build src/index.ts",

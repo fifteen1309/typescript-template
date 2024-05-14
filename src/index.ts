@@ -2,4 +2,4 @@ function greet(): string {
   return 'Hello, world!'
 }
 
-greet()
+export default greet
